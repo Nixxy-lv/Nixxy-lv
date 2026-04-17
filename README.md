@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">Nixxy.dev</h2>
 
-<!--
-**Nixxy-lv/Nixxy-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hello! Welcome to my profile!
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-C-blue?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-blue?style=for-the-badge">
+  <a href="mailto:nixdev888@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/He/Him-blue?style=for-the-badge">
+</p>
