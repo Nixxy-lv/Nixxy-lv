@@ -10,7 +10,7 @@
 </details>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-C-pink?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning-C-blueviolet?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-white?style=for-the-badge">
   <a href="mailto:nixdev888@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Me-white?style=for-the-badge&logo=gmail&logoColor=white">
