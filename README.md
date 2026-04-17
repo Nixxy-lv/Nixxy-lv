@@ -13,10 +13,14 @@
   <img src="https://img.shields.io/badge/Learning-C-pink?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-orange?style=for-the-badge">
   <a href="mailto:nixdev888@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-yellow?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact-Me-magenta?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <img src="https://img.shields.io/badge/He/Him-blue?style=for-the-badge">
 </p>
+<a href="https://nixxy-lv.github.io/">
+    <img src="https://img.shields.io/badge/My-Webpage-yellow?style=for-the-badge">
+  </a>
 
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png" width="200">
