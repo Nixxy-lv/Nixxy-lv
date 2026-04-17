@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Contact-Me-white?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <img src="https://img.shields.io/badge/He/Him-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/He/Him-pink?style=for-the-badge">
 
 <a href="https://nixxy-lv.github.io/">
-    <img src="https://img.shields.io/badge/My-Webpage-magenta?style=for-the-badge">
+    <img src="https://img.shields.io/badge/My-Webpage-white?style=for-the-badge">
   </a>
 </p>
 
