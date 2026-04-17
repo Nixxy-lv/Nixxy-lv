@@ -1,4 +1,4 @@
-<h2 align="center">Nixxy.dev</h2>
+<h2 align="center">Nixxy-lv</h2>
 
 <p align="center">
   Hello! Welcome to my profile!
