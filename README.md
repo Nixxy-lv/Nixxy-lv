@@ -3,6 +3,9 @@
 <p align="center">
   Hello! Welcome to my profile!
 </p>
+<details>
+  <summary>i am an italian developer looking to get linux, assembly and general programming knowledge!</summary>
+</details>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-C-pink?style=for-the-badge&logo=c&logoColor=white">
