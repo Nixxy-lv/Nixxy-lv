@@ -3,8 +3,10 @@
 <p align="center">
   Hello! Welcome to my profile!
 </p>
+
 <details>
-  <summary>i am an italian developer looking to get linux, assembly and general programming knowledge!</summary>
+  <summary>About me:</summary>
+  i am an italian developer looking to get linux, assembly and general programming knowledge!
 </details>
 
 <p align="center">
