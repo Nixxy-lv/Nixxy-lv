@@ -1,4 +1,4 @@
-<img width="1280" height="960" alt="1000161083" src="https://github.com/user-attachments/assets/92f18f04-098f-4780-8080-04d2cfdfd05c" />
+
 <!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"-->
 
 <h2 align="center">Nixxy-lv</h2>
