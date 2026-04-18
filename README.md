@@ -1,7 +1,7 @@
 
 <!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"-->
 
-<h2 align="center"><strong>Nixxy-lv</strong></h2>
+<h2 align="center">Nixxy-lv</h2>
 
 <p align="center">
   Hello! Welcome to my profile!
