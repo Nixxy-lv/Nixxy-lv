@@ -1,3 +1,4 @@
+<img width="1280" height="960" alt="1000161083" src="https://github.com/user-attachments/assets/92f18f04-098f-4780-8080-04d2cfdfd05c" />
 <!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"-->
 
 <h2 align="center">Nixxy-lv</h2>
@@ -30,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/01/11/15/18/toy-1133756_1280.jpg" width="400" style="border-radius: 15px;">
+  <img width="1280" height="960" alt="1000161083" src="https://github.com/user-attachments/assets/3437f4ea-e19c-4c09-8285-1221526d5630" />
 </p>
 
 <br>
