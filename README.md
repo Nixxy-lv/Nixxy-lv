@@ -24,12 +24,13 @@
 <img src="https://img.shields.io/badge/I Use-EndeavourOS-white?style=for-the-badge&logo=EndeavourOS&logoColor=white">
 </p>
 
+<br>
+<br>
+
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png" width="200">
 </p>
 
-<br>
-<br>
 <br>
 <br>
 
