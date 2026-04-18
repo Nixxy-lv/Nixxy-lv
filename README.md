@@ -11,12 +11,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-C-blueviolet?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-white?style=for-the-badge&logo=pizza&logoColor=white">
+  <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-white?style=for-the-badge&logo=heart&logoColor=white">
   <a href="mailto:nixdev888@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Me-white?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <img src="https://img.shields.io/badge/He/Him-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/He/Him-blueviolet?style=for-the-badge&logo=SuperUser&logoColor=white">
 
 <a href="https://nixxy-lv.github.io/">
     <img src="https://img.shields.io/badge/My-Webpage-blueviolet?style=for-the-badge&logo=html5&logoColor=white">
