@@ -21,7 +21,7 @@
 <a href="https://nixxy-lv.github.io/">
     <img src="https://img.shields.io/badge/My-Webpage-blueviolet?style=for-the-badge&logo=html5&logoColor=white">
   </a>
-<img src="https://img.shields.io/badge/I Use-EndeavourOS-white?style=for-the-badge&logo=pizza&logoColor=white">
+<img src="https://img.shields.io/badge/I Use-EndeavourOS-white?style=for-the-badge&logo=EndeavourOS&logoColor=white">
 </p>
 
 <p align="center">
