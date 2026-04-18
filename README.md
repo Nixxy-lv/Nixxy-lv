@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img src=<!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"-->"https://cdn.pixabay.com/photo/2013/07/12/19/19/linux-154544_1280.png" width="200">
+  <img src="https://cdn.pixabay.com/photo/2013/07/12/19/19/linux-154544_1280.png"<!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"--> width="200">
 </p>
 
 <br>
