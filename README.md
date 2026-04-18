@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Progress Till Beta release ████████████░░░░░░░░-60%25-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/ ████████████░░░░░░░░-60%25-blueviolet?style=for-the-badge">
 </p>
