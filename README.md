@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/01/11/15/18/toy-1133756_1280.jpg" width="200">
+  <img src="https://cdn.pixabay.com/photo/2016/01/11/15/18/toy-1133756_1280.jpg" width="400">
 </p>
 
 <br>
