@@ -1,3 +1,5 @@
+<!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"-->
+
 <h2 align="center">Nixxy-lv</h2>
 
 <p align="center">
@@ -28,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/01/11/15/18/toy-1133756_1280.jpg"<!--"https://cdn.pixabay.com/photo/2025/07/31/09/38/astronomy-9746537_1280.png"--> width="200">
+  <img src="https://cdn.pixabay.com/photo/2016/01/11/15/18/toy-1133756_1280.jpg" width="200">
 </p>
 
 <br>
