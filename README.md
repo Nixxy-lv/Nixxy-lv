@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-white?style=plastic&logo=heart&logoColor=white">
   
   <a href="mailto:nixdev888@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-white?style=plastic&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact-Me-magenta?style=plastic&logo=gmail&logoColor=white">
   </a>
 
   <img src="https://img.shields.io/badge/He/Him-blueviolet?style=plastic&logo=superuser&logoColor=white">
