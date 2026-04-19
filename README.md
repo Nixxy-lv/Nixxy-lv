@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-white?style=plastic&logo=heart&logoColor=white">
   
   <a href="mailto:nixdev888@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-purple?style=plastic&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact-Me-blueviolet?style=plastic&logo=gmail&logoColor=white">
   </a>
 
   <img src="https://img.shields.io/badge/He/Him-blueviolet?style=plastic&logo=superuser&logoColor=white">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/My-Webpage-white?style=plastic&logo=html5&logoColor=white">
   </a>
 
-  <img src="https://img.shields.io/badge/I%20Use-EndeavourOS-purple?style=plastic&logo=endeavouros&logoColor=white">
+  <img src="https://img.shields.io/badge/I%20Use-EndeavourOS-blueviolet?style=plastic&logo=endeavouros&logoColor=white">
 </p>
 
 <br>
