@@ -41,5 +41,5 @@
 
 <p align="center">
 <b>Progress till full PackOS release</b><br>
-<img src="https://img.shields.io/badge/ ████████████░░░░░░░░-60%25-blueviolet?style=plastic">
+<img src="https://img.shields.io/badge/ ███████████░░░░░░░░░-55%25-blueviolet?style=plastic">
 </p>
