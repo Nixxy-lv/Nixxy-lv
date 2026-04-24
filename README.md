@@ -13,7 +13,7 @@
 </details>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-C-blueviolet?style=plastic&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning-Rust-blueviolet?style=plastic&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F-Pizza-white?style=plastic&logo=heart&logoColor=white">
   
   <a href="mailto:nixdev888@gmail.com">
