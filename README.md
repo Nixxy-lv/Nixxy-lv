@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/My-Webpage-white?style=plastic&logo=html5&logoColor=white">
   </a>
 
-  <img src="https://img.shields.io/badge/I%20Use-EndeavourOS-blueviolet?style=plastic&logo=endeavouros&logoColor=white">
+  <img src="https://img.shields.io/badge/Developing%20-KorOS-blueviolet?style=plastic&logo=os&logoColor=white">
 </p>
 
 <br>
