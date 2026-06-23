@@ -9,7 +9,7 @@
 
 <details>
   <summary>About me:</summary>
-  i am an italian developer looking to get linux, assembly and general programming knowledge!
+  i am an italian developer that loves computer science and is currently making a Linux Distro: KoreOS!
 </details>
 
 <p align="center">
